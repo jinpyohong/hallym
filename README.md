@@ -9,3 +9,5 @@
 3. [Working on Branch](https://youtu.be/0pQEQKgA-2g)
 4. [팀으로 일하기](https://youtu.be/ekyRlEmthkw)
 5. [Undo](https://youtu.be/hKCbjtYXdoM)
+
+## [Data Science using Anaconda](https://github.com/jinpyohong/data_science#readme)
