@@ -9,7 +9,7 @@
 5. [Exception Handling](PyProg/exceptions.ipynb)
 6. Object-oriented Prgramming: [Part I](PyProg/oop1.ipynb), [Part II](PyProg/oop2.ipynb), [Part III](PyProg/oop3.ipynb)
 7. [Decorators](PyProg/decorators.ipynb)
-8. [Regular Expression](PyProg/regexp.ipynb)
+8. [Regular Expressions](PyProg/regexp.ipynb) 보조자료(PDF): PyProg/Regular_Expressions.pdf
 9. [Python Virtual Environment](PyProg/venv.ipynb)
 10. Unit Testing
     1.  Pytest - Quick Guide https://www.tutorialspoint.com/pytest/pytest_quick_guide.htm
