@@ -1,13 +1,31 @@
-~# 한림대 학생을 위한 Page
-## Git 개념과 활용
-지난 2020년 1학기, 한국외대 정보통신공학과 3학년 학생 대상으로 **인터넷응용** 강좌에서 온라인 강의에서 사용했던 동영상 강의자료를 소개하니 참고하세요. 교재 없이 내가 마음대로 내용을 정하고 실무 위주의 가의를 했던 과목이라 은퇴하고서도 마지막 서비스로 했던 강의입니다. 때마침 코로나 유행 시작으로 비대면으로 강의하느라 진도를 천천히 나가면서 다소 장황하게 진행한 면이 있습니다.
-원래 내 말도 느리니 여러분은 1.5 배속으로 시청해도 무방할 것입니다.
+# 한림대 학생을 위한 Page
+## 강좌 - Summer, 2023
 
-아래 동영상 1, 2를 먼저 들으면 git 활용이 가능하게 될 것이며, 이후 3, 4, 5 를 들으세요.
-1. [Introduction to Git](https://youtu.be/uI9OVZFZ2Ds)
-2. [Push/Pull/Fetch 그리고 Branch 만들기](https://youtu.be/wEewus8C-fc)
-3. [Working on Branch](https://youtu.be/0pQEQKgA-2g)
-4. [팀으로 일하기](https://youtu.be/ekyRlEmthkw)
-5. [Undo](https://youtu.be/hKCbjtYXdoM)
+### Python Programming - 개념 중심으로
+1. [Python Data Structure](PyProg/data_structures.ipynb)
+2. [Generators](PyProg/generator.ipynb)
+3. [Functional Programming](PyProg/functional_programming.ipynb)
+4. [Modules](PyProg/modules.ipynb)
+5. [Exception Handling](PyProg/exceptions.ipynb)
+6. Object-oriented Prgramming: [Part I](PyProg/oop1.ipynb), [Part II](PyProg/oop2.ipynb), [Part III](PyProg/oop3.ipynb)
+7. [Decorators](PyProg/decorators.ipynb)
+8. [Regular Expression](PyProg/regexp.ipynb)
+9. [Python Virtual Environment](PyProg/venv.ipynb)
+10. Unit Testing
+    1.  Pytest - Quick Guide https://www.tutorialspoint.com/pytest/pytest_quick_guide.htm
+    2.  동영상 강의: https://www.youtube.com/watch?v=3FK8-LCBQSk&t=776s
 
-## [Data Science using Anaconda](https://github.com/jinpyohong/data_science#readme)
+### Data Science
+1. [Numpy](data_science/Numpy.ipynb)
+2. [Pandas](data_science/Pandas.ipynb)
+3. [Visualization with matplotlib](data_science/Matplotlib.ipynb) 
+4. [Machine learning with scikit-learn](data_science/ML.ipynb) 
+
+### Web Application
+1. [Socket API](WebApp/socketAPI.ipynb)
+2. [Fetching Web Pages](WebApp/http_requests.ipynb)
+3. [Django 시작하기](WebApp/django_start.ipynb)
+4. [Django Tutorial](WebApp/django_tutorial.ipynb)
+### Git
+강의자료(PDF): ./git.pdf
+> 참고: https://git-scm.com/
