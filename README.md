@@ -21,11 +21,15 @@
 3. [Visualization with matplotlib](data_science/Matplotlib.ipynb) 
 4. [Machine learning with scikit-learn](data_science/ML.ipynb) 
 
-### Web Application
+## Git - 12/13/2023
+아래 강의자료 머리에 실습 준비사항이 있으니 이를 준비하고 강의에 참여하길 바랍니다.
+
+- 강의자료: [(PDF)](./git.pdf)
+- 참고: https://git-scm.com/
+- 간단한 git commands: https://wordbe.tistory.com/entry/Git-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%ACcommit-push-pull-request-merge-%EB%93%B1
+
+## Web Application
 1. [Socket API](WebApp/socketAPI.ipynb)
 2. [Fetching Web Pages](WebApp/http_requests.ipynb)
 3. [Django 시작하기](WebApp/django_start.ipynb)
 4. [Django Tutorial](WebApp/django_tutorial.ipynb)
-### Git
-강의자료: [(PDF)](./git.pdf)
-> 참고: https://git-scm.com/
