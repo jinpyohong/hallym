@@ -27,5 +27,5 @@
 3. [Django 시작하기](WebApp/django_start.ipynb)
 4. [Django Tutorial](WebApp/django_tutorial.ipynb)
 ### Git
-강의자료(PDF): ./git.pdf
+강의자료: [(PDF)](./git.pdf)
 > 참고: https://git-scm.com/
