@@ -21,7 +21,7 @@
 3. [Visualization with matplotlib](data_science/Matplotlib.ipynb) 
 4. [Machine learning with scikit-learn](data_science/ML.ipynb) 
 
-## Git - 12/13/2023
+## Git - 12/19/2023
 아래 강의자료 머리에 실습 준비사항이 있으니 이를 준비하고 강의에 참여하길 바랍니다.
 
 - 강의자료: [(PDF)](./git.pdf)
