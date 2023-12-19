@@ -25,7 +25,7 @@
 아래 강의자료 머리에 실습 준비사항이 있으니 이를 준비하고 강의에 참여하길 바랍니다.
 
 - [강의자료](./git.pdf)
-- [실습자료](./gitlab)
+- [실습자료](./gitlab.md)
 - 참고: https://git-scm.com/
 - 간단한 git commands: https://wordbe.tistory.com/entry/Git-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%ACcommit-push-pull-request-merge-%EB%93%B1
 
