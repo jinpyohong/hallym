@@ -21,20 +21,16 @@
 ## Dataset Repository 구성도 예
 
     my_dataset_repository/
-    ├── README.md
+    ├── README.md                   # directory 구조 정의 (YAML)
     ├── my_dataset_repository.py    # loading dataset script (optional)
     └── data/
-        └── 살인/           # config name
-            ├── train/
-                ├── 판결문-00000.jsonl
-                └── 판결문-10223.jsonl
-            ├── valid/      # optional
-                └── 판결문-*.jsonl
-            └── test/
-                └── 판결문-*.jsonl
-        ...
-        └── 사기/           # config name
-            ...
+        ├── train/
+            ├── 판결문-00000.jsonl
+            └── 판결문-10223.jsonl
+        ├── valid/      # optional
+            └── 판결문-*.jsonl
+        └── test/
+            └── 판결문-*.jsonl
 
 하나의 data file에는 1 or more raws 를 담을 수 있다.
 수정 및 추가는 이 단위 파일에서 이루어진다.
